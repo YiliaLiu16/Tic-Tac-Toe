@@ -1,8 +1,11 @@
-# tic-tac-toe
+# Tic-Tac-Toe :space_invader:
 
 Tic-Tac-Toe game implemented by Python in CLI (for TECHIN 509 course)
 
-## Usage
+## Demo :star:
+
+
+## How to Play 
 
 ### Requirements
 
