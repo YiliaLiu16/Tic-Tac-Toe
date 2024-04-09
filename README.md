@@ -4,7 +4,7 @@ Tic-Tac-Toe game implemented by Python in CLI
 
 ## Demo :star:
 
-
+https://github.com/YiliaLiu16/Tic-Tac-Toe/assets/165431811/c5ef912d-2382-47c3-9d18-cbe495c65366
 
 ## Requirements :notebook_with_decorative_cover:
 
